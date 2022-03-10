@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **JS,frontend**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -12,4 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guan4tou2&show_icons=true&bg_color=DEG,bdc3c7,2c3e50)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guan4tou2&layout=compact&bg_color=DEG,bdc3c7,2c3e5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guan4tou2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
