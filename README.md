@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm guantou</h1>
-<h3 align="center">A Information Engineering student from NFU</h3>
+<h3 align="center"><del>A Information Engineering student from NFU</del></h3>
+<h3 align="center">A Information Security master student from NTUT</h3>
 
 - 🌱 I’m currently learning **JS,frontend**
 
