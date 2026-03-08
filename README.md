@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guan4Tou2 / 你好，我是 Guan4Tou2</h1>
+<h1 align="center">Hi 👋, I'm Guan4Tou2 / 你好，我是罐頭</h1>
 <h3 align="center">Information Security master's student at NTUT / 台北科大資安碩士生</h3>
 
 [![Followers](https://img.shields.io/github/followers/guan4tou2?label=Followers&style=for-the-badge)](https://github.com/guan4tou2?tab=followers)
