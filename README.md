@@ -11,9 +11,6 @@
 - Skilled in digital forensics and penetration testing. / 擅長數位鑑識與滲透測試。
 - Currently learning JavaScript and frontend development. / 目前持續學習 JavaScript 與前端開發。
 
-## Privacy Note / 個資說明
-- This profile intentionally excludes personal contact details and location (phone, email, address). / 此 Profile 刻意不公開個人聯絡方式與位置資訊（電話、信箱、住址）。
-
 ## Certification / 證照
 - OSCP (Offensive Security Certified Professional) / OSCP（滲透測試專業證照）
 
@@ -27,9 +24,6 @@
 - AIS3 EOF 2025 Top 10 / AIS3 EOF 2025 前 10 名。
 - Active in CTF (web security, forensics, OSINT). / 長期參與 CTF（網頁安全、數位鑑識、OSINT）。
 - Reported multiple SQL Injection vulnerabilities via HITCON Zeroday. / 透過 HITCON Zeroday 回報多起 SQL Injection 漏洞。
-
-## Research / 研究
-- Working on controllable secure code generation with LLMs (DPO-aligned training pipeline). / 研究以偏好對齊（DPO）建構可控且安全的 LLM 程式碼生成流程。
 
 ## Pinned Projects / 代表作
 - [danmu-desktop](https://github.com/guan4tou2/danmu-desktop): Desktop bullet-screen overlay / 桌面彈幕工具。Tech / 技術：JavaScript, Electron, Node.js.
