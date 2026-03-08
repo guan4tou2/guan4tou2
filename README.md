@@ -7,21 +7,21 @@
 [![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge)](https://www.offsec.com/courses/pen-200/)
 
 ## About Me / 關於我
-- Research focus: DFIR (Digital Forensics and Incident Response).
-- 擅長數位鑑識與滲透測試。
-- Currently learning JavaScript and frontend development.
+- Research focus: DFIR (Digital Forensics and Incident Response). / 研究領域：DFIR（數位鑑識與事件應變）。
+- Skilled in digital forensics and penetration testing. / 擅長數位鑑識與滲透測試。
+- Currently learning JavaScript and frontend development. / 目前持續學習 JavaScript 與前端開發。
 
 ## Certification / 證照
-- OSCP (Offensive Security Certified Professional)
+- OSCP (Offensive Security Certified Professional) / OSCP（滲透測試專業證照）
 
 ## Pinned Projects / 代表作
-- [danmu-desktop](https://github.com/guan4tou2/danmu-desktop): 桌面彈幕工具 / Desktop bullet-screen overlay. Tech: JavaScript, Electron, Node.js.
-- [fail2ban-telegram](https://github.com/guan4tou2/fail2ban-telegram): Fail2ban 通知整合 Telegram。Tech: Python, Telegram Bot API.
-- [vcan-hijacking-by-python](https://github.com/guan4tou2/vcan-hijacking-by-python): 以 Python 操作 vCAN 訊框。Tech: Python, SocketCAN.
-- [NOSINT-Backend](https://github.com/guan4tou2/NOSINT-Backend): Anti-OSINT backend prototype。Tech: Web backend.
-- [guan4tou2.github.io](https://github.com/guan4tou2/guan4tou2.github.io): 個人網站 / Personal site. Tech: Astro.
+- [danmu-desktop](https://github.com/guan4tou2/danmu-desktop): Desktop bullet-screen overlay / 桌面彈幕工具。Tech / 技術：JavaScript, Electron, Node.js.
+- [fail2ban-telegram](https://github.com/guan4tou2/fail2ban-telegram): Fail2ban Telegram notifier / Fail2ban 通知整合 Telegram。Tech / 技術：Python, Telegram Bot API.
+- [vcan-hijacking-by-python](https://github.com/guan4tou2/vcan-hijacking-by-python): vCAN message transfer with Python / 使用 Python 操作 vCAN 訊框。Tech / 技術：Python, SocketCAN.
+- [NOSINT-Backend](https://github.com/guan4tou2/NOSINT-Backend): Anti-OSINT backend prototype / 反 OSINT 後端原型。Tech / 技術：Web backend.
+- [guan4tou2.github.io](https://github.com/guan4tou2/guan4tou2.github.io): Personal website / 個人網站。Tech / 技術：Astro.
 
-## Languages and Tools
+## Languages and Tools / 語言與工具
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
