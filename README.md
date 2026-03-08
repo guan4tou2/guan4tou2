@@ -4,6 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/guan4tou2?label=Followers&style=for-the-badge)](https://github.com/guan4tou2?tab=followers)
 [![Stars](https://img.shields.io/github/stars/guan4tou2?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/guan4tou2)
 [![Profile Views](https://komarev.com/ghpvc/?username=guan4tou2&style=for-the-badge)](https://github.com/guan4tou2)
+[![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge)](https://www.offsec.com/courses/pen-200/)
 
 ## About Me / 關於我
 - Research focus: DFIR (Digital Forensics and Incident Response).
